@@ -1,18 +1,19 @@
-INTRODUCTION
+CONTACT
 ================================================================================
 
 Author:		Jan Papousek (325494)
 Contact:	xpapous1@fi.muni.cz
 Year:		2010
 
-Description:	The program [lam2com] converts lamda terms into combinators.
+DESCRIPTION
+================================================================================
 
-		The source code has been created for purpose of studying
-		IA014 - Functional programming taught by Libor Skarvada
-		at Masaryk University.
+The program [lam2com] converts lamda terms into combinators.
 
-		More info you will find at https://github.com/papousek/lam2com
+The source code has been created for purpose of studying IA014 - Functional programming
+taught by Libor Skarvada at Masaryk University.
 
+More info you will find at http://fi.muni.cz/~libor/vyuka/IA014/
 
 HOW TO EXECUTE
 ================================================================================
