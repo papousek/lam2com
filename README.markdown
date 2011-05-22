@@ -1,9 +1,9 @@
 CONTACT
 ================================================================================
 
-Author:		Jan Papousek (325494)
-Contact:	xpapous1@fi.muni.cz
-Year:		2010
+  * Author:	Jan Papousek (325494)
+  * Contact:	xpapous1@fi.muni.cz
+  * Year:	2010
 
 DESCRIPTION
 ================================================================================
@@ -19,13 +19,16 @@ HOW TO EXECUTE
 ================================================================================
 
 1) Using HUGS (http://www.haskell.org/hugs/)
+	
 	$ hugs Main.hs
 	Main> main
 
 2a) Using GHC 6 (http://www.haskell.org/ghc/)
+
 	$ make
 	$ ./lam2cam
 
 2b) Using GHC (http://www.haskell.org/ghc/)
+
 	$ make ghc
 	$ ./lam2cam
